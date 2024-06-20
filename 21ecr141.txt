@@ -1,4 +1,4 @@
-21ecr141
-pooventhiranv
+roll-no=21ecr141
+name=pooventhiranv
 department=ece
 
